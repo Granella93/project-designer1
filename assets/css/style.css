@@ -31,7 +31,7 @@ header section:nth-of-type(2) div:nth-of-type(2){
     100% { transform: translateY(-30px); }
 }
 header{
-    background-image: url(/assets/img/ilustracion1.png);
+    background-image: url(../img/ilustracion1.png);
     background-repeat: no-repeat;
     background-position: right top;
 }
@@ -132,7 +132,7 @@ main section:nth-of-type(6){
     margin-top:5em;
     margin-left:5em;
     margin-right: 5em;
-    background-image: url(/assets/img/step01.png);
+    background-image: url(../img/step01.png);
     background-position: left;
     background-repeat: no-repeat;
     background-size: 30em;
@@ -160,7 +160,7 @@ main section:nth-of-type(7){
     margin-top:5em;
     margin-left:5em;
     margin-right: 5em;
-    background-image: url(/assets/img/step02.png);
+    background-image: url(../img/step02.png);
     background-position: right;
     background-repeat: no-repeat;
     background-size: 30em;
@@ -187,7 +187,7 @@ main section:nth-of-type(7) div img , h4 , p{
 main section:nth-of-type(8){
     margin-top:5em;
     margin-left:5em;
-    background-image: url(/assets/img/step03.png);
+    background-image: url(../img/step03.png);
     background-position: left;
     background-repeat: no-repeat;
     background-size: 30em;
@@ -215,7 +215,7 @@ main section:nth-of-type(9){
     margin-top:5em;
     margin-left:5em;
     margin-right: 5em;
-    background-image: url(/assets/img/step04.png);
+    background-image: url(../img/step04.png);
     background-position: right;
     background-repeat: no-repeat;
     background-size: 30em;
